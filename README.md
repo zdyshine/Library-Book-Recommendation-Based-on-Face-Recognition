@@ -1,4 +1,7 @@
 # Library-Book-Recommendation-Based-on-Face-Recognition
 首届生物特征识别技术开发者大赛第三名作品：基于人脸识别的图书智能推荐系统 
 # 比赛网站及简介
-[网站](https://www.kesci.com/home/competition/5b0cf4c8a8b1fd09d0ba99a8/content)
+[网站](https://www.kesci.com/home/competition/5b0cf4c8a8b1fd09d0ba99a8/content) <br>
+70后进入大学校园使用的通讯设备为BP机和大哥大，课堂上使用大黑板和录音机。80后上大学进入一个新世纪、新时代，娱乐工具有了MP3、MP4，学习工具有了笔记本电脑，课堂也有传统的大黑板变成了投影仪。90后所处的时代是互联网产品爆发的大时代，高科技设备随处可见，看书不用去买纸质书，各种电子书设备出现；笔记本、iPad、智能手机随处可见；教学也从传统意义上的教学变得更加智能化。尤其是最近一两年来，人脸识别技术的出现，彻底改变了校园的格局。云从科技欲将人脸识别技术通过本次赛事带入校园中，致力打造智慧校园。<br>
+# 产品介绍
+主界面<br>
